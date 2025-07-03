@@ -1,16 +1,31 @@
-# bongorekha_magazine
+# 📱 Bongorekha Magazine Flutter App
 
-A new Flutter project.
+A blog reading mobile application built using **Flutter** and **Dart**.  
+It fetches articles from the **Bongorekha WordPress REST API** and displays them in a beautifully designed mobile UI.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📰 Display latest blog posts
+- 🔍 Search functionality 
+- 🗂️ Category-wise blog filtering
+- 🎥 Embedded video section
+- 📱 Fully responsive UI for Android
+- 🔗 Integration with WordPress REST API (Upcoming)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Frontend:** Flutter (Dart)
+- **Backend:** WordPress REST API (JSON)
+- **IDE:** IntelliJ IDEA / Android Studio
+
+
+## 🧪 Getting Started
+
+To run this project locally, follow these steps:
+
+```bash
+git clone https://github.com/RaihanShohag/bongorekha_magazine.git
+cd bongorekha_magazine
+flutter pub get
+flutter run
